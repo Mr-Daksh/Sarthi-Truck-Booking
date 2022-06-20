@@ -1594,7 +1594,7 @@ Choose Area Style
 
 .choose-us-content .single-choose-us-box {
   background-color: #eef9ff;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 .choose-us-content .single-choose-us-box i {
@@ -2143,7 +2143,7 @@ Blog Area Style
 }
 
 .single-blog-post .blog-content {
-  padding: 25px;
+  padding: 15px 25px;
 }
 
 .single-blog-post .blog-content .date {
@@ -2825,7 +2825,7 @@ Page Title Area Style
   width: 100%;
   height: 100%;
   background-color: black;
-  opacity: 0.65;
+  opacity: 0.5;
 }
 
 .page-title-area .page-title-content {
@@ -2884,7 +2884,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-1 {
-  background-image: url(../../assets/img/page-bg/page-bg-1.jpg);
+  background-image: url(../../assets/img/about-us-big.jpg);
 }
 
 .page-title-area.bg-2 {
@@ -2904,7 +2904,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-6 {
-  background-image: url(../../assets/img/page-bg/page-bg-6.jpg);
+  background-image: url(../../assets/img/team.jpg);
 }
 
 .page-title-area.bg-7 {
@@ -2949,11 +2949,11 @@ Page Title Area Style
 }
 
 .page-title-area.bg-17 {
-  background-image: url(../../assets/img/page-bg/page-bg-7.jpg);
+  background-image: url(../../assets/img/banner/shutterstock-2.jpeg);
 }
 
 .page-title-area.bg-18 {
-  background-image: url(../../assets/img/page-bg/page-bg-8.jpg);
+  background-image: url(../../assets/img/services/services-bg.jpg);
 }
 
 .page-title-area.bg-19 {
@@ -2965,7 +2965,8 @@ Page Title Area Style
 }
 
 .page-title-area.bg-21 {
-  background-image: url(../../assets/img/page-bg/page-bg-1.jpg);
+  /* background-image: url(../../assets/img/page-bg/page-bg-1.jpg); */
+  background-color: white;
 }
 
 .page-title-area.bg-22 {
@@ -2981,7 +2982,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-25 {
-  background-image: url(../../assets/img/page-bg/page-bg-5.jpg);
+  background-image: url(../../assets/img/contact.jpg);
 }
 
 .page-title-area.bg-26 {
@@ -3086,7 +3087,7 @@ FAQ Area Style
 }
 
 .faq-area .faq-img {
-  background-image: url(../img/faq-img.jpg);
+  background-image: url(../img/faq-1.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3464,7 +3465,10 @@ User Area CSS
 .user-area-style {
   position: relative;
   z-index: 1;
-  background-image: url('../img/flag/vector-bg-2.jpg');
+  /* background-image: url('../img/flag/vector-bg-1.jpg'); */
+  /* background-color: rgba(0, 49, 49, 1); */
+  background-color: rgba(0, 126, 125, 1);
+  /* background-color: #006564; */
 }
 
 .user-area-style .contact-form-action {
@@ -3583,6 +3587,7 @@ User Area CSS
 Product Area Style
 ======================================================*/
 .showing-result {
+  margin-top: 35px;
   margin-bottom: 30px;
   margin-right: 15px;
   background-color: #ffffff;
@@ -3680,8 +3685,8 @@ Product Area Style
 
 .single-product {
   text-align: center;
-  margin-bottom: 30px;
-  padding: 30px;
+  margin-bottom: 20px;
+  padding: 15px;
   -webkit-box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 }
@@ -3796,7 +3801,7 @@ product-view-one
 }
 
 .product-view-one.modal.show .modal-dialog {
-  margin-top: 25px;
+  margin-top: 15px;
 }
 
 .product-view-one .product-view-one-image {
@@ -3811,7 +3816,7 @@ product-view-one
 
 .product-view-one .modal-content {
   border: none;
-  padding: 40px;
+  /* padding: 40px; */
   border-radius: 0;
 }
 
@@ -3821,7 +3826,8 @@ product-view-one
   top: 0;
   outline: 0;
   opacity: 1;
-  color: #000024;
+  color: white;
+  background-color: #007e7d;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   line-height: 35px;
@@ -3831,6 +3837,7 @@ product-view-one
   width: 35px;
   text-shadow: unset;
   height: 35px;
+  z-index: 5;
 }
 
 .product-view-one .modal-content button.close:hover {
@@ -6468,3 +6475,82 @@ Tabs Area Style*/
   display: block;
 }
 /*# sourceMappingURL=style.css.map */
+
+/* css added by daksh */
+
+.pd-top-160 {
+  padding-top: 160px;
+}
+
+.pd-bottom-30 {
+  padding-bottom: 30px;
+}
+
+.search-button-market {
+  font-size: 27px;
+  background-color: #007e7d;
+  color: white;
+  padding: 5px 10px 0 10px;
+  margin-top: 3px;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #007e7d;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.vert-line {
+  border-left: 3px solid #007e7d;
+  height: 30px;
+  margin: -6px 7px -9px 8px;
+}
+
+.market-profile {
+  border-radius: 50%;
+  height: 50px;
+}
+
+.light-colr-bg {
+  background-color: rgba(0, 126, 125, 0.15);
+}
+
+.product-area {
+  margin-top: -3rem;
+}
+
+.light-colr-bg-opp .blog-content h3 a {
+  font-size: 15px;
+}
+
+.light-colr-bg-opp .vert-line {
+  height: 25px;
+  border-left: 2px solid #007e7d;
+  margin-left: 9px;
+}
+
+.bg-grad {
+  border-radius: 10px;
+  background-image: url(../../assets/img/team/css-gradient.webp);
+  /* opacity: 0.5; */
+  background: #FF512F;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #DD2476, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #DD2476, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg-grad-2 {
+  border-radius: 10px;
+  background: #603813;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg-grad-3 {
+  border-radius: 10px;
+  background: #E55D87;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5FC3E4, #E55D87); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
