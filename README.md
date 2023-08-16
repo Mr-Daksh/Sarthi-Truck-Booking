@@ -38,9 +38,18 @@ The **Marketplace** feature introduces a novel approach to truck booking. Users 
 - JavaScript
 - Firebase
 
+## Demo
+
+Check out the live demo of **Sarthi - Truck Booking** (https://mr-daksh.github.io/Sarthi-Truck-Booking/).
+
 ## Contributing
 
-Contributions are welcomed! If you have ideas for enhancements or new features, please feel free to submit a pull request.
+Contributions are welcome! If you have ideas for new features or improvements, please feel free to submit a pull request.
+
+## Contact
+
+- Daksh Sahu
+- dakshsahu24@gmail.com
 
 ## License
 
