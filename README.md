@@ -51,7 +51,4 @@ Contributions are welcome! If you have ideas for new features or improvements, p
 - Daksh Sahu
 - dakshsahu24@gmail.com
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
