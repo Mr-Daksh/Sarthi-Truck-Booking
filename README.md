@@ -48,18 +48,18 @@ Check out the live demo of **Sarthi - Truck Booking** (https://mr-daksh.github.i
   <tr>
     <tr>
     <td align="center">
-      <img src="assests/img/s1.png" alt="Screenshot 1" width="400">
+      <img src="assets/img/s1.png" alt="Screenshot 1" width="400">
     </td>
     <td align="center">
-      <img src="assests/img/s2.png" alt="Screenshot 2" width="400">
+      <img src="assets/img/s2.png" alt="Screenshot 2" width="400">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assests/img/s3.png" alt="Screenshot 3" width="400">
+      <img src="assets/img/s3.png" alt="Screenshot 3" width="400">
     </td>
     <td align="center">
-      <img src="assests/img/s4.png" alt="Screenshot 4" width="400">
+      <img src="assets/img/s4.png" alt="Screenshot 4" width="400">
     </td>
   </tr>
 </table>
