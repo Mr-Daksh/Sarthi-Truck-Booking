@@ -42,6 +42,28 @@ The **Marketplace** feature introduces a novel approach to truck booking. Users 
 
 Check out the live demo of **Sarthi - Truck Booking** (https://mr-daksh.github.io/Sarthi-Truck-Booking/).
 
+## Screenshots
+
+<table>
+  <tr>
+    <tr>
+    <td align="center">
+      <img src="assests/img/s1.png" alt="Screenshot 1" width="400">
+    </td>
+    <td align="center">
+      <img src="assests/img/s2.png" alt="Screenshot 2" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assests/img/s3.png" alt="Screenshot 3" width="400">
+    </td>
+    <td align="center">
+      <img src="assests/img/s4.png" alt="Screenshot 4" width="400">
+    </td>
+  </tr>
+</table>
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for new features or improvements, please feel free to submit a pull request.
